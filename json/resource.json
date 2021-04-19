@@ -1,11 +1,11 @@
 [
     {
-        "name": "以太坊官网",
-        "name_en": "Ethereum.org",
+        "name": "DFINITY官网",
+        "name_en": "dfintiy.org",
         "desc": "",
         "desc_en": "",
-        "url": "https://ethereum.org/zh/",
-        "url_en": "https://ethereum.org/",
+        "url": "dfintiy.org/",
+        "url_en": "dfintiy.org",
         "tag": "热门推荐",
         "tag_en": "Hot",
         "logo": "/imgs/explorer/eth.png",
