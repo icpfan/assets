@@ -1,11 +1,11 @@
 [
     {
         "name": "DFINITY官网",
-        "name_en": "https://dfinity.org/",
+        "name_en": "dfinity.org",
         "desc": "",
         "desc_en": "",
-        "url": "https://dfinity.org/",
-        "url_en": "https://dfinity.org/",
+        "url": "dfinity.org/",
+        "url_en": "dfinity.org",
         "tag": "热门推荐",
         "tag_en": "Hot",
         "logo": "/imgs/explorer/eth.png",
