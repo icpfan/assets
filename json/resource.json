@@ -96,6 +96,18 @@
         "image": ""
     },
     {
+        "name": "DfinityScan",
+        "name_en": "DfinityScan",
+        "desc": "",
+        "desc_en": "",
+        "url": "https://www.icp.report/",
+        "url_en": "https://www.icp.report/",
+        "tag": "社区",
+        "tag_en": "Community",
+        "logo": "/imgs/redditlogo.png",
+        "image": ""
+    },
+    {
         "name": "Dfinity",
         "name_en": "",
         "desc": "",
@@ -117,7 +129,7 @@
         "url_en": "http://www.icpswap.com/",
         "tag": "DeFi",
         "tag_en": "DeFi",
-        "logo": "/imgs/uniswap.org_logo_400x400-1586866796733.jpg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/icpswap.png",
         "image": ""
     },
     {
@@ -129,7 +141,7 @@
         "url_en": "https://tacen.com/zh/",
         "tag": "DeFi",
         "tag_en": "DeFi",
-        "logo": "/imgs/curve.fi_logo_400x400-1588140852767.jpg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/tacen.png",
         "image": ""
     },
     {
@@ -141,7 +153,7 @@
         "url_en": "https://sailfish.app/",
         "tag": "DeFi",
         "tag_en": "DeFi",
-        "logo": "/imgs/pic/sushi.png",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/sailfish.png",
         "image": ""
     },
     {
@@ -153,7 +165,7 @@
         "url_en": "https://www.enso.finance/",
         "tag": "DeFi",
         "tag_en": "DeFi",
-        "logo": "/imgs/tokenlon.im_logo_400x400-1586866782903.jpg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/ensofinance.png",
         "image": ""
     },
     {
@@ -165,7 +177,7 @@
         "url_en": "https://twitter.com/DistriktApp",
         "tag": "社交",
         "tag_en": "Social",
-        "logo": "/imgs/redditlogo.png",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/distrikt.jpg",
         "image": ""
     },
     {
@@ -177,7 +189,7 @@
         "url_en": "https://2611p-6iaaa-aaaaa-qahmq-cai.ic0.app/",
         "tag": "社交",
         "tag_en": "Social",
-        "logo": "/imgs/ethresearch.jpg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/openchat.png",
         "image": ""
     },
  
@@ -190,7 +202,7 @@
         "url_en": "https://capsule.social/",
         "tag": "社交",
         "tag_en": "Social",
-        "logo": "/imgs/ethmagician.jpg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/capsule.png",
         "image": ""
     },
     {
@@ -202,7 +214,7 @@
         "url_en": "https://7uzqr-xyaaa-aaaab-aa46q-cai.ic0.app/",
         "tag": "论坛",
         "tag_en": "Forum",
-        "logo": "/imgs/Defi/cover.webp",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/dscvr.png",
         "image": ""
     },
     {
@@ -218,6 +230,18 @@
         "image": ""
     },
     {
+        "name": "Fleek",
+        "name_en": "Fleek",
+        "desc": "",
+        "desc_en": "",
+        "url": "https://fleek.co",
+        "url_en": "https://fleek.co",
+        "tag": "基础",
+        "tag_en": "Basic",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/fleek.png",
+        "image": ""
+    },
+    {
         "name": "Canistore",
         "name_en": "Canistore",
         "desc": "",
@@ -226,7 +250,7 @@
         "url_en": "https://canistore.io",
         "tag": "数字媒体服务商",
         "tag_en": "Digital Media",
-        "logo": "/imgs/Defi/cover.webp",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/canistore.png",
         "image": ""
     },
     {
@@ -238,7 +262,7 @@
         "url_en": "https://www.origyn.ch/",
         "tag": "奢侈品溯源",
         "tag_en": "Luxury",
-        "logo": "/imgs/Defi/nsure.jpeg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/origyn.jpeg",
         "image": ""
     },
     {
@@ -250,7 +274,7 @@
         "url_en": "https://twitter.com/RFL_app",
         "tag": "抽奖平台",
         "tag_en": "Lottery",
-        "logo": "/imgs/%E4%B8%8B%E8%BD%BD%20(6)-1588218853621.jpeg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/rfl.png",
         "image": ""
     },
     {
@@ -262,7 +286,7 @@
         "url_en": "https://getimpactnow.org/",
         "tag": "投票",
         "tag_en": "Vote",
-        "logo": "/imgs/3408-1588842509631.png",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/getimpactnow.png",
         "image": ""
     },
     {
@@ -274,7 +298,7 @@
         "url_en": "https://github.com/seniorjoinu/Bonus",
         "tag": "Bonus",
         "tag_en": "Bonus",
-        "logo": "/imgs/Defi/dai.jpg",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/bonus.png",
         "image": ""
     },
     {
