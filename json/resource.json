@@ -92,7 +92,7 @@
         "url_en": "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4NjU1NzQyMA==&scene=124#wechat_redirect",
         "tag": "社区",
         "tag_en": "Community",
-        "logo": "/imgs/redditlogo.png",
+        "logo": "https://raw.githubusercontent.com/icpfan/assets/main/logo/guoke.jpg",
         "image": ""
     },
     {
